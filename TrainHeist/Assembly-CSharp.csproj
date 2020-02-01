@@ -63,7 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\MainMenu.cs" />
+    <Compile Include="Assets\NewBehaviourScript.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Github/GITHUBSHIT/TrainHeist/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
